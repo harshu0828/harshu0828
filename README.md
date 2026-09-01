@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harshitha T!<br>I'm an Electronics & Communication Engineering student interested in Embedded Systems, IoT, C Programming, and Cloud Computing. I enjoy building practical projects that combine hardware and software to solve real-world problems.I'm looking to collaborate on<br>IoT and Embedded Systems projects,<br>C/C++ based projects. I'm currently learning<br>C Programming & DSA,<br>Embedded Systems,<br>IoT,<br>Problem Solving.My Goals<br>Become a skilled Embedded Systems Engineer<br>Build innovative real-world IoT solutions<br>Contribute to open-source projects<br>Continuously improve my technical and problem-solving skills.reach me<br>LinkedIn: www.linkedin.com/in/harshitha-tavarakumar-4475ba315
+Hi, I'm Harshitha T!<br>🎓 Electronics & Communication Engineering student<br>🔧 Embedded Systems | IoT | C/C++ | Cloud Computing<br>💻 Strong foundation in Data Structures & Algorithms<br>🚀 Building practical hardware-software solutions that solve real problems<br>🌱 Currently deepening expertise in Embedded C, RTOS, and AWS IoT<br>🤝 Open to collaborating on IoT, embedded, and C/C++ projects<br>LinkedIn: www.linkedin.com/in/harshitha-tavarakumar-4475ba315
 
 
 ## 🌐 Socials:
